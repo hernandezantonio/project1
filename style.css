@@ -1,22 +1,35 @@
 @import 'https://fonts.googleapis.com/css?family=Rubik+One';
-body{
-  background-color: black;
+@import 'https://fonts.googleapis.com/css?family=Anton';
+body {
+    background-image: url("http://parthrbhatt.com/images/background.jpg?crc=3774322258");
 }
 nav{
   color: white;
 }
 p{font-family: 'Rubik One', sans-serif;
 
-  serif;
-  color: black;
-  background-color: red;
-  border: 5px solid white;
-  padding: 40px;
-  width: 600px;
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+background-color: #d9d9d9;
+font-size: 40px:
 }
-h1{
+h1{font-family: 'Anton', sans-serif;
   color: white;
+  font-size: 90px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#e0ebeb;
+  text-shadow: 2px 2px #000000;
+
 }
 h2{
-  color: white;
+  color: black;
+
+
+}
+nav {
+    background-color: white;
+    color: white;
 }
